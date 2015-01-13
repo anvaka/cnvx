@@ -4,6 +4,7 @@ Calculates [convex hull](http://courses.csail.mit.edu/6.006/spring11/rec/rec24.p
 for the set of 2d points. This code was part of [VivaGraph](https://github.com/anvaka/VivaGraphJS)
 now I just extracted it here. Computation complexity is `O(n lg n)`.
 
+[![Build Status](https://travis-ci.org/anvaka/cnvx.svg)](https://travis-ci.org/anvaka/cnvx)
 # usage
 
 ``` javascript
