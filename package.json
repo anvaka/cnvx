@@ -1,10 +1,10 @@
 {
-  "name": "convx",
+  "name": "cnvx",
   "version": "0.1.0",
   "description": "Calculates convex hull for the set of 2d points",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tap test/*.js"
   },
   "keywords": [
     "convex",
@@ -15,6 +15,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/anvaka/convx"
+    "url": "https://github.com/anvaka/cnvx"
+  },
+  "devDependencies": {
+    "tap": "^0.4.13"
   }
 }
