@@ -1,0 +1,20 @@
+{
+  "name": "convx",
+  "version": "0.1.0",
+  "description": "Calculates convex hull for the set of 2d points",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "convex",
+    "hull",
+    "2d"
+  ],
+  "author": "Andrei Kashcha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvaka/convx"
+  }
+}
